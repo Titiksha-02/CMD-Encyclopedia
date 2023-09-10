@@ -1,0 +1,1 @@
+Concurrency means multiple computations are happening at the same time. Concurrency is everywhere in modern programming, whether we like it or not: Multiple computers in a network. Multiple applications running on one computer
